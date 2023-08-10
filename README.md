@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vendoy-ax
+- 👀 I’m interested in CVEs
+- 🌱 I’m currently learning system penetration
+- 💞️ I’m looking to collaborate on Discord
+- 📫 Reach me at vendax. on Discord
